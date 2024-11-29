@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello, world!
+### Info
+- 📍 São Paulo, SP - Brazil
+- 💻 Flutter Mobile Developer at [7Comm](https://www.7comm.com.br/)
+- 📚 STEM / Computer Science Student at [UFABC](https://www.ufabc.edu.br/)
 
-<!--
-**neemias-rdl/neemias-rdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Current Personal Projects
+- 🔗[ENEM Provas GUI](https://github.com/neemias-rdl/enem-provas-gui)
 
-Here are some ideas to get you started:
+### About Me
+Full-stack developer with a passion for creating applications and games since a young age, been doing it professionally since May 2023.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on a Flutter mobile application with a native SQLite database, managed using the drift_db package.
