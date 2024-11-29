@@ -10,4 +10,4 @@
 ### About Me
 Full-stack developer with a passion for creating applications and games since a young age, been doing it professionally since May 2023.
 
-Currently working on a Flutter mobile application with a native SQLite database, managed using the drift_db package.
+Currently working on a Flutter mobile application with a native SQLite database, managed using the `drift_db` package.
