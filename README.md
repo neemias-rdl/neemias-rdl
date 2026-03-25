@@ -2,7 +2,7 @@
 ### Personal Info
 - 📍 São Paulo, SP - Brazil
 - 💻 Flutter Mobile Developer @ [7Comm](https://www.7comm.com.br/)
-- 📝 Innovator @ [minima studio](https://www.linkedin.com/company/minima-work/posts/?feedView=all)
+- 📝 Design Engineer @ [minima studio](https://www.linkedin.com/company/minima-work/posts/?feedView=all)
 - 📚 STEM / Computer Science Student @ [UFABC](https://www.ufabc.edu.br/)
 
 ### About Me
