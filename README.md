@@ -2,7 +2,6 @@
 ### Personal Info
 - 📍 São Paulo, SP - Brazil
 - 💻 Full Stack Developer @ [7Comm](https://www.7comm.com.br/)
-- 📝 Design Engineer @ [minima studio](https://www.linkedin.com/company/minima-work/posts/?feedView=all)
 - 📚 STEM / Computer Science Student @ [UFABC](https://www.ufabc.edu.br/)
 
 ### About Me
