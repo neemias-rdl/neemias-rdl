@@ -5,10 +5,11 @@
 - 📚 STEM / Computer Science Student @ [UFABC](https://www.ufabc.edu.br/)
 
 ### About Me
-Full stack developer, focused on mobile-first and responsive apps. Interested in tech education and AI literacy.
 
-Currently developing Flutter applications with complex business logic, responsive and pixel-perfect interfaces, integrated with local SQLite databases and organized using a micro-frontend architecture with Flutter packages.
+Full-stack developer with experience across mobile, back-end, and web front-end development. I enjoy working across the development lifecycle and collaborating with multidisciplinary teams to build reliable, maintainable solutions that meet users’ needs.
 
-I also work on backend development using Python with Flask and SQLAlchemy, integrating PostgreSQL and implementing AI features with LangChain. In this context, I apply practical concepts such as prompt engineering, token optimization, and vector database integration.
+I currently work with distributed systems using ASP.NET Core and Angular with TypeScript, contributing to feature planning, development, and maintenance alongside product and quality teams. I also help automate development workflows with AI tools.
 
-I have prior experience in full-stack projects using Node.js (Express) on the backend and HTML, CSS, and vanilla JavaScript on the frontend.
+My most extensive experience is in Flutter mobile development, including pixel-perfect interfaces, local SQLite databases, and Clean Architecture in a modular monolith. I use Flutter packages to organize application modules.
+
+I’ve also worked on AI integrations for a Python API built with Flask, using LangChain and vector databases. I’m currently studying Go to deepen my knowledge of distributed systems and explore practical tools for development and infrastructure.
